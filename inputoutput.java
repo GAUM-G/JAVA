@@ -12,5 +12,6 @@ public class inputoutput {
         System.out.println("Entered name: "+name);
         System.out.println("Entered age: "+age);
         System.out.println("Entered salary: "+salary);
+        sc.close();
     }
 }
